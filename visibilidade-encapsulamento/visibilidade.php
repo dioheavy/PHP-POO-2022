@@ -1,7 +1,7 @@
 <?php
-//public    -> Pode ser acessada pela Classe Pai, Classe Filha e no escopo do projeto
-//protected -> Pode ser acessada pela Classe Pai e Class filha apenas
-//private   -> Só pode ser acessada de dentro da Classe Pai
+//public    -> Pode ser acessada pela Classe Pai, Classe Filha e no escopo do projeto.
+//protected -> Pode ser acessada pela Classe Pai e Class filha apenas.
+//private   -> Só pode ser acessada de dentro da Classe Pai.
 
 
 class Person{
